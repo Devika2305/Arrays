@@ -1,4 +1,5 @@
-package Questions;
+//https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
+
 import java.util.*;
 
 public class Reverse {
